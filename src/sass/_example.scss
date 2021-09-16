@@ -25,3 +25,26 @@
   background-size: cover;
   background-position: center;
 }
+
+.fetch-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.country-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.country-card {
+  display: flex;
+}
+
+.country-info {
+  margin: 20px;
+}
+.flag-card {
+  margin: 20px;
+}
